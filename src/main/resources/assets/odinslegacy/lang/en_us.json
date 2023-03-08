@@ -1,0 +1,20 @@
+{
+  "itemGroup.oltab": "Odin's Legacy",
+
+  "item.odinslegacy.nordic_steel": "Nordic Steel",
+  "item.odinslegacy.mjolnir" : "Mjolnir",
+  "item.odinslegacy.rune_fragment" : "Runic Fragment",
+  "item.odinslegacy.empty_rune" : "Rune",
+  "item.odinslegacy.alfheim_rune" : "Alfheim Rune",
+  "item.odinslegacy.asgard_rune" : "Asgard Rune",
+  "item.odinslegacy.hel_rune" : "Hel Rune",
+  "item.odinslegacy.jotunnheim_rune" : "Jotunnheim Rune",
+  "item.odinslegacy.muspelheim_rune" : "Muspelheim Rune",
+  "item.odinslegacy.niflheim_rune" : "Niflheim Rune",
+  "item.odinslegacy.svartalfheim_rune" : "Svartalfheim Rune",
+  "item.odinslegacy.midgardian_steel_sword" : "Midgardian Steel Sword",
+  "item.odinslegacy.midgardian_steel_pick" : "Midgardian Steel Pickaxe",
+  "item.odinslegacy.midgardian_steel_axe" : "Midgardian Steel Axe",
+  "item.odinslegacy.midgardian_steel_hoe" : "Midgardian Steel Hoe",
+  "item.odinslegacy.midgardian_steel_shovel" : "Midgardian Steel Shovel"
+}
